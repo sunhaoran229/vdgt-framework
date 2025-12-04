@@ -1,2 +1,9 @@
-# AGI
-Value Dynamic Game Theory: A Generative Recursive Framework for AGI Alignment and Its Computational Implementation
+## 状态更新
+
+此项目已完成其作为思想实验和概念原型的历史使命。
+核心理论框架（VDGT）已完整呈现。
+代码部分仅为辅助理解概念的极简演示。
+
+感谢所有关注者。理论的生命不在于完美，而在于被严肃地思考过。
+
+—— Sun Haoran, Dec 2025
